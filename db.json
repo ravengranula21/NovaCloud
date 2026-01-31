@@ -1,5 +1,15 @@
 {
   "orders": [],
-  "reports": [],
-  "lastUpdate": "2025-01-30T00:00:00.000Z"
+  "reports": [
+    {
+      "reportId": "REP_1769818754521",
+      "name": "Raven",
+      "email": "teet@yahoo.com",
+      "orderId": "-",
+      "issue": "Haloooo Nint",
+      "status": "open",
+      "createdAt": "2026-01-31T00:19:14.521Z"
+    }
+  ],
+  "lastUpdate": "2026-01-31T00:19:14.522Z"
 }
